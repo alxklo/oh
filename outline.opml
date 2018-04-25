@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+  <head>
+    <title>A cold basement, a lightpen, and NCSA Mosaic</title>
+    <dateModified>Fri, 06 Sep 2013 12:03:59 GMT</dateModified>
+    <expansionState>1,2,3</expansionState>
+    <link>http://alexkillough.smallpict.com/</link>
+    <feed>https://dl.dropbox.com/s/wwz7zy0lmljxlof/aColdBasementALightpenAndNcsaMosaic.xml</feed>
+    </head>
+  <body>
+    <outline text="2013" created="Fri, 06 Sep 2013 11:42:36 GMT" name="2013" icon="calendar">
+      <outline text="September 2013" created="Fri, 06 Sep 2013 11:42:36 GMT" name="09">
+        <outline text="It's a new day in the former wild west" created="Fri, 06 Sep 2013 11:42:36 GMT" name="06" type="markdown">
+          <outline text="While the news is disheartening (and perhaps expected), I predict the number of engineers working to rethink the fundamentals of networking, encryption, and security just shot up exponentially. Lot of research dollars and jobs will go into both sides of that war."/>
+          <outline text="" created="Fri, 06 Sep 2013 12:01:47 GMT"/>
+          <outline text="The other immediate business opportunity:"/>
+          <outline text="For years I've heard the following arguments used, under the mantle of security, to thwart initiatives in the realm of information technology in favor of existing systems:"/>
+          <outline text="&quot;it's onsite&quot;"/>
+          <outline text="&quot;it's enterprise level&quot;"/>
+          <outline text="&quot;it's managed by certified enterprise technicians&quot;"/>
+          <outline text="&quot;it's in an underground mine&quot; (yes, really. I've been there.)"/>
+          <outline text="&quot;it's java&quot;"/>
+          <outline text="&quot;it's microsoft&quot;"/>
+          <outline text="&quot;its a mac&quot;"/>
+          <outline text="To which one can now ask:"/>
+          <outline text="&quot;Does it connect to the internet?&quot;"/>
+          <outline text="And answer, definitively:"/>
+          <outline text="&quot;Then it is not secure. Let's move on.&quot;"/>
+          </outline>
+        </outline>
+      <outline text="A cold basement, a lightpen, and NCSA Mosaic" name="aColdBasementALightpenAndNcsaMosaic" type="html">
+        <outline text="&lt;html&gt;" created="Mon, 01 Jul 2013 03:28:02 GMT">
+          <outline text="&lt;head&gt;" created="Mon, 01 Jul 2013 03:29:04 GMT">
+            <outline text="&lt;title&gt;A Cold Basement, a lightpen, and NCSA Mosaic&lt;/title&gt;" created="Mon, 01 Jul 2013 03:29:08 GMT"/>
+            <outline text="&lt;%useBootstrap%&gt;" created="Tue, 09 Jul 2013 11:52:17 GMT"/>
+            </outline>
+          <outline text="&lt;body&gt;" created="Mon, 01 Jul 2013 03:32:36 GMT">
+            <outline text="&lt;div class=&quot;container-fluid&quot;&gt;" created="Fri, 12 Jul 2013 03:32:56 GMT"/>
+            <outline text="&lt;div class=&quot;row&quot;&gt;" created="Tue, 09 Jul 2013 11:53:31 GMT"/>
+            <outline text="&lt;div class=&quot;span8 offset2&quot;&gt;" created="Tue, 09 Jul 2013 11:53:41 GMT"/>
+            <outline text="&lt;p&gt;Let me begin by saying I've no claim to pedigree or true innovation in my field. I've dodged in and out of web technology a few different times over the last twenty years, and only settled in the field over the last nine or ten.&lt;/p&gt;" created="Sun, 30 Jun 2013 14:32:45 GMT"/>
+            <outline text="&lt;p&gt;I built my first site as an intern in a windowless basement computer lab in 1993. The internship started sometime before school let and took place on Saturdays. My task, at the time, was first to learn the Unix shell (bash IIRC), and then to digitize topographic maps used in reservoir simulation. My supervisor was Dr. Richard Kendall, a colleague of my father's in the Institute for Improved Oil Recovery at the University of Houston. My dad had placed me in the position, vetoing my first summer job choice of making sandwiches at the Blimpie's 9-5. To my knowledge the department had no scanner tables at this time, or at least none large enough to import the plotter-sized topo maps the used in reservoir simulation. My days, through early June, pretty much went as follows:&lt;/p&gt;" created="Sun, 30 Jun 2013 14:38:16 GMT">
+              <outline text="&lt;div class=&quot;row&quot;&gt;" created="Tue, 09 Jul 2013 11:58:52 GMT"/>
+              <outline text="&lt;ul class=&quot;span7 offset1&quot;&gt;" created="Tue, 09 Jul 2013 11:58:31 GMT"/>
+              <outline text="&lt;li&gt;Get to work&lt;/li&gt;" created="Sun, 30 Jun 2013 14:42:56 GMT"/>
+              <outline text="&lt;li&gt;Walk up three flights of stairs to find Dr. Kendall. Receive tube of maps.&lt;/li&gt;" created="Sun, 30 Jun 2013 14:43:24 GMT"/>
+              <outline text="&lt;li&gt;Walk down five flights of stairs to sub-basement. This is faster than waiting for the ca.1960 elevator ride.&lt;/li&gt;" created="Sun, 30 Jun 2013 14:44:28 GMT"/>
+              <outline text="&lt;li&gt;Unlock lab. If the odd grad student who didn't talk to me but did curse at unpredictable junctures was not still there jamming on his parallel simulation machine, turn on light.&lt;/li&gt;" created="Tue, 09 Jul 2013 11:58:00 GMT"/>
+              <outline text="&lt;li&gt;Put on flannel shirt. It's 95 degrees and 99% humidity outside, but here, amidst the remnants of mainframes, the &lt;a href=&quot;http://www.cs.kuleuven.be/museum/multiproc/rubik.jpg&quot;&gt;Intel Hypercube tower&lt;/a&gt;, the rows of IBM RS6000 machines, the largest and slowest 11x17 laser printers in the world, it's a steady 62.&lt;/li&gt;" created="Sun, 30 Jun 2013 14:45:38 GMT"/>
+              <outline text="&lt;li&gt;Open tube, extract maps, and flatten them on table adjacent to digitizing surface by placing four hardcover reference books on the corners.&lt;/li&gt;" created="Sun, 30 Jun 2013 14:48:25 GMT"/>
+              <outline text="&lt;li&gt;Retrieve coffee in paper cup from vending machine down the hall while maps flatten a bit. Return to lab.&lt;/li&gt;" created="Sun, 30 Jun 2013 14:55:12 GMT"/>
+              <outline text="&lt;li&gt;Remove first map in the pile and place on digitizer surface. Affix with pins.&lt;/li&gt;" created="Sun, 30 Jun 2013 14:56:25 GMT"/>
+              <outline text="&lt;li&gt;Login to &lt;a href=&quot;http://en.wikipedia.org/wiki/RS/6000&quot;&gt;RS6000 workstation&lt;/a&gt; to which digitizer is connected.&lt;/li&gt;" created="Sun, 30 Jun 2013 14:57:20 GMT"/>
+              <outline text="&lt;li&gt;Login to X-Windows.&lt;/li&gt;" created="Sun, 30 Jun 2013 14:59:39 GMT"/>
+              <outline text="&lt;li&gt;Open digitizer application. I can't remember the name, but it may have been &lt;a href=&quot;http://en.wikipedia.org/wiki/CADAM&quot;&gt;CADAM&lt;/a&gt; or something similar.&lt;/li&gt;" created="Sun, 30 Jun 2013 14:59:48 GMT"/>
+              <outline text="&lt;li&gt;Wait. This is 1993, things take a while to get going.&lt;/li&gt;" created="Sun, 30 Jun 2013 15:07:53 GMT"/>
+              <outline text="&lt;li&gt;App is launched and initialized. Test the lightpen. Does it register? Good, time to get to work. Otherwise, close the app, close X-Windows, logout, start over.&lt;/li&gt;" created="Sun, 30 Jun 2013 15:08:24 GMT"/>
+              <outline text="&lt;li&gt;Digitizing a topographic map in 1993 works like this:" created="Sun, 30 Jun 2013 15:09:24 GMT">
+                <outline text="&lt;div class=&quot;row&quot;&gt;&lt;ul class=&quot;span5 offset1&quot;&gt;" created="Tue, 09 Jul 2013 11:59:29 GMT"/>
+                <outline text="&lt;li&gt;Create a new document.&lt;/li&gt;" created="Sun, 30 Jun 2013 15:10:51 GMT"/>
+                <outline text="&lt;li&gt;Click on the four registration points, in sequence, on the corners of the map.&lt;/li&gt; " created="Sun, 30 Jun 2013 15:11:25 GMT"/>
+                <outline text="&lt;li&gt;Beginning in the center of the map, click on each point defined in each elevation curve until that curve is fully captured.&lt;/li&gt;" created="Sun, 30 Jun 2013 15:11:58 GMT"/>
+                <outline text="&lt;li&gt;Move to the keyboard, check the shape of the input, and if accurate, enter the elevation of that curve.&lt;/li&gt;" created="Sun, 30 Jun 2013 15:13:13 GMT"/>
+                <outline text="&lt;li&gt;Mark on the map with ink pen the curve just completed.&lt;/li&gt;" created="Sun, 30 Jun 2013 15:30:57 GMT"/>
+                <outline text="&lt;li&gt;Move on to the next curve.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/li&gt;" created="Sun, 30 Jun 2013 15:13:45 GMT"/>
+                </outline>
+              <outline text="&lt;li&gt;When the map is fully digitized, save in CAD format to a shared directory to import into the simulation software the researchers use, and  export a version as Postscript.&lt;/li&gt;" created="Sun, 30 Jun 2013 15:19:44 GMT"/>
+              <outline text="&lt;li&gt;Once all maps are digitized, ftp them to the RS6000 machine across the room connected to one of the printers.&lt;/li&gt;" created="Sun, 30 Jun 2013 15:35:19 GMT"/>
+              <outline text="&lt;li&gt;telnet into that machine, and spool up a print job for each of the Postscript files.&lt;/li&gt;" created="Sun, 30 Jun 2013 15:37:13 GMT"/>
+              <outline text="&lt;li&gt;Wait. Each black and white print job takes between ten and fifteen minutes to feed into the tray.&lt;/li&gt;" created="Sun, 30 Jun 2013 15:37:36 GMT"/>
+              <outline text="&lt;li&gt;At the end of the day, collect the pile of 8.5x11's and walk back upstairs to deliver them to Dr. Kendall for inclusion in his paper reports.&lt;/li&gt;" created="Sun, 30 Jun 2013 15:38:45 GMT"/>
+              <outline text="&lt;li&gt;Step and repeat, through May, June, and much of July.&lt;/li&gt;" created="Sun, 30 Jun 2013 15:31:56 GMT"/>
+              <outline text="&lt;/ul&gt;" created="Tue, 09 Jul 2013 12:00:23 GMT"/>
+              <outline text="&lt;/div&gt;" created="Tue, 09 Jul 2013 12:00:26 GMT"/>
+              </outline>
+            <outline text="&lt;p&gt;Sometime in late July or early August, Dr. Kendall introduced me to a research partner from Los Alamos National Laboratory, who in some fashion were sponsoring the energy research of the department. I can't remember this man's name, unfortunately, but Dr. Kendall explained that he had a new application to introduce me to that would alter our workflow a bit. We walk down to the basement, and login to one of the workstations, and ftp down some software from NCSA.&lt;/p&gt;" created="Sun, 30 Jun 2013 15:26:17 GMT"/>
+            <outline text="&lt;p&gt;The software is NCSA Mosaic. This moment, without my knowing it or putting any import in it for another four years, redefines the path my life will take.&lt;p&gt;" created="Sun, 30 Jun 2013 15:43:41 GMT"/>
+            <outline text="&lt;p&gt;We browse around this new World Wide Web space for a while to get a sense of the  landscape. There is not a lot there--around 130 websites. I believe there was an index to the entire web at that time. It was on one page. We mostly look at the research archive that LANL was in the process of creating, along with a couple of geeky interest sites. And that was it. No ads, no forums, no multimedia. Text and images, serif and sans. Then the researcher went back to New Mexico; we never met again.&lt;/p&gt;" created="Sun, 30 Jun 2013 15:45:00 GMT"/>
+            <outline text="&lt;p&gt;Some weeks later Dr. Kendall suggested I take a look at compiling some of the digitized maps with his abstract as a primitive website. I'm unsure we actually called it a website. It may have been a webpage or &quot;on the world wide web&quot;. That was about it in terms of direction. There were no HTML books or cheatsheets or web communities or Stack Overflow or github. There were, somewhere in the Mosaic help pages, &lt;a href=&quot;http://cmgm.stanford.edu/classes/IntroHTML/HTML_Guide.html&quot;&gt;A Beginner's Guide to HTML&lt;/a&gt;, which became my tutorial. I would jump back and forth from those pages, vi, and opening up my documents in Mosaic to test changes. No tabbed windows, no inspector, no validator. The text layout is dictated by tag type. Simple text flow down the page using the appropriate tag to represent different types of formatting, hierarchies of importance. There were some images. There was an image map of one of the larger graphics that linked to details of particular areas.&lt;/p&gt;" created="Mon, 01 Jul 2013 02:51:47 GMT"/>
+            <outline text="&lt;p&gt;Then the summer ended. I didn't put a lot of stock or thought into what had happened, or contemplate what I had learned. There was school, and rock music, and friends and girlfriends and the general high school white noise.&lt;/p&gt;" created="Mon, 01 Jul 2013 03:04:37 GMT"/>
+            <outline text="&lt;p&gt;Dr. Kendall later went on to become the first CTO of Los Alamos. My father worked in industry and is now faculty at another Texas University.&lt;/p&gt;" created="Tue, 09 Jul 2013 12:01:48 GMT"/>
+            <outline text="&lt;p&gt;The website no longer exists, but a later report by Dr. Kendall describing part of the project and one of the studied reservoirs can be &lt;a href=&quot;http://www.osti.gov/bridge/servlets/purl/350846-s2vTTi/webviewable/350846.pdf&quot;&gt;found online&lt;/a&gt;" created="Tue, 09 Jul 2013 12:14:16 GMT"/>
+            <outline text="&lt;p&gt;I have two art degrees (apologies to my parents on that note, though it seems to have ended up alright). The younger me really really did not want to grow up to be the inevitable older me. Unfortunately for younger me was that having worked at U of H helped me get my next job, testing the UI of visualization software at Landmark Graphics. That next tech position helped land the subsequent job, in the Art Department computer lab at University of Texas. And on it went until I ended up writing code for a living five years out of undergrad.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" created="Mon, 01 Jul 2013 03:07:02 GMT"/>
+            </outline>
+          </outline>
+        </outline>
+      </outline>
+    <outline text="#menus" created="Tue, 25 Jun 2013 14:46:47 GMT">
+      <outline text="default" created="Thu, 13 Jun 2013 04:10:59 GMT">
+        <outline text="&lt;%menutitle%&gt;" created="Thu, 13 Jun 2013 04:11:04 GMT">
+          <outline text="Archive" created="Wed, 10 Jul 2013 01:33:02 GMT" type="archive"/>
+          <outline text="&lt;i class=&quot;icon-twitter&quot;&gt;&lt;/i&gt;" created="Thu, 13 Jun 2013 04:35:28 GMT" type="link" url="http://twitter.com/alxklo"/>
+          <outline text="&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;" created="Sat, 22 Jun 2013 21:07:02 GMT" type="link" url="/rss.xml"/>
+          </outline>
+        </outline>
+      </outline>
+    <outline text="#siteTimeZone &quot;-7&quot;" created="Thu, 13 Jun 2013 21:38:54 GMT"/>
+    <outline text="#bootstrapTheme &quot;http://bootswatch.com/readable/bootstrap.min.css&quot;" created="Tue, 25 Jun 2013 19:02:18 GMT"/>
+    <outline text="#text &quot;eaten by moths&quot;" created="Tue, 11 Jun 2013 18:33:07 GMT"/>
+    <outline text="#type &quot;bloghome&quot;" created="Tue, 11 Jun 2013 18:21:54 GMT"/>
+    <outline text="#bloghomeItemCount &quot;10&quot;" created="Tue, 18 Jun 2013 18:04:56 GMT"/>
+    </body>
+  </opml>
